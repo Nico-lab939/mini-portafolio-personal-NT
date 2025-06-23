@@ -25,13 +25,7 @@ La página incluye:
 - Google Fonts (opcional)
 - Font Awesome para íconos sociales (opcional)
 
----
-
-## 🚀 Publicación
-
-El sitio fue publicado utilizando **GitHub Pages** desde la rama `main`.  
-Podés acceder a la página en la siguiente URL:  
-📎 [https://tuusuario.github.io/mini-portafolio/](https://tuusuario.github.io/mini-portafolio/) *(Reemplazar con el enlace real)*
+--
 
 ---
 
