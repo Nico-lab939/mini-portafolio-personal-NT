@@ -25,9 +25,7 @@ La página incluye:
 - Google Fonts (opcional)
 - Font Awesome para íconos sociales (opcional)
 
----
-
-
+--
 
 ---
 
